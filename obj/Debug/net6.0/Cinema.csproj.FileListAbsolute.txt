@@ -85,3 +85,6 @@ C:\Users\thays\source\repos\Cinema\Cinema\obj\Debug\net6.0\refint\Cinema.dll
 C:\Users\thays\source\repos\Cinema\Cinema\obj\Debug\net6.0\Cinema.pdb
 C:\Users\thays\source\repos\Cinema\Cinema\obj\Debug\net6.0\Cinema.genruntimeconfig.cache
 C:\Users\thays\source\repos\Cinema\Cinema\obj\Debug\net6.0\ref\Cinema.dll
+C:\Users\Aluno\Source\Repos\CRUD\obj\Debug\net6.0\Cinema.dll
+C:\Users\Aluno\Source\Repos\CRUD\obj\Debug\net6.0\refint\Cinema.dll
+C:\Users\Aluno\Source\Repos\CRUD\obj\Debug\net6.0\Cinema.pdb

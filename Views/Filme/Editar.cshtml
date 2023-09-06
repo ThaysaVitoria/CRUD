@@ -1,14 +1,14 @@
-﻿﻿@model FilmeModel
+﻿﻿@model AluguelFilmeModel
 @{
-    ViewData["title"] = "Cadastrar Filme";
+    ViewData["title"] = "Editar Filme"; // muda o titulo da pagina
 }
 
 <div class="container bg-dark p-5 rounded-5">
 
     <div class="mb-5 text-center">
-        <h1 class="text-light">Cadastro Filme</h1>
+        <h1 class="text-light">Editar Filme</h1>
     </div>
-    <form method="post" asp-controller="Filme" asp-action="Cadastrar">
+    <form method="post" asp-controller="Filme" asp-action="Editar">
         <div class="form-group">
             <label for="Titulo" class="text-light">Titulo</label>
             <input type="text" class="form-control" asp-for="Titulo" id="Titulo" aria-describedby="emailHelp" placeholder="Titulo do filme" />
